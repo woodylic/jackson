@@ -1,0 +1,15 @@
+{
+  "id": "a1666e5c-ffd2-4efe-9f9c-59dcfe753a81",
+  "name": {
+    "propertyMap": {
+      "en-US": "Conjunction",
+      "zh-CN": "连词"
+    }
+  },
+  "description": {
+    "propertyMap": {
+      "en-US": "Learn conjunction.",
+      "zh-CN": "学习连词。"
+    }
+  }
+}
